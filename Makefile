@@ -10,4 +10,5 @@ tmp/topaz_unicode_ks13_bold.bdf: tmp/bold-glyphs.bdf src/bold-metadata.bdf
 	bdflib-merge $^ $@
 
 %.ttf: tmp/%.bdf
+	rm -f $@
 	java -jar BitsNPicas.jar convertbitmap -o $@ -f ttf $<
