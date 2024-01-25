@@ -101,3 +101,10 @@ I also generate a "Bold" version
 that uses the same pixel-repeating trick that the original Amiga GUI used,
 so that bold text will look crisp and authentic
 instead of being antialiased by a modern font engine.
+
+Where can I get it?
+-------------------
+
+You can download the latest versions of the TTF files
+from [the artifacts page](https://gitlab.com/Screwtapello/topaz-unicode/-/jobs/artifacts/main/browse?job=build)
+
