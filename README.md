@@ -1,7 +1,18 @@
 Topaz Unicode
 =============
 
-![A screenshot of Topaz Unicode KS13 used in the Kakoune editor](./screenshot.png)
+![A screenshot of a terminal emulator configured to display text in Topaz Unicode KS13](./screenshot.png)
+
+*A screenhot of the [Kakoune] editor,
+using the Topaz Unicode font,
+and an [Amiga Workbench] inspired colour scheme.
+The editor is showing a portion of Markus Kuhn's [UTF-8 demo],
+demonstrating some of the new characters added in this version,
+like box-drawing characters and fancy punctuation.*
+
+[Kakoune]: https://kakoune.org/
+[Amiga Workbench]: http://toastytech.com/guis/amiga1.html
+[UTF-8 demo]: https://web.archive.org/web/20231113055806/www.cl.cam.ac.uk/~mgk25/ucs/examples/UTF-8-demo.txt
 
 
 What is this?
@@ -106,5 +117,7 @@ Where can I get it?
 -------------------
 
 You can download the latest versions of the TTF files
-from [the artifacts page](https://gitlab.com/Screwtapello/topaz-unicode/-/jobs/artifacts/main/browse?job=build)
+from [the artifacts page][artifacts].
+
+[artifacts]: https://gitlab.com/Screwtapello/topaz-unicode/-/jobs/artifacts/main/browse?job=build
 
