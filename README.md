@@ -3,7 +3,7 @@ Topaz Unicode
 
 ![A screenshot of a terminal emulator configured to display text in Topaz Unicode KS13](./screenshot.png)
 
-*A screenhot of the [Kakoune] editor,
+*A screenshot of the [Kakoune] editor,
 using the Topaz Unicode font,
 and an [Amiga Workbench] inspired colour scheme.
 The editor is showing a portion of Markus Kuhn's [UTF-8 demo],
