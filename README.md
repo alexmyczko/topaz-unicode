@@ -116,8 +116,6 @@ instead of being antialiased by a modern font engine.
 Where can I get it?
 -------------------
 
-You can download the latest versions of the TTF files
-from [the artifacts page][artifacts].
+You can [download] the latest versions of the TTF files.
 
-[artifacts]: https://gitlab.com/Screwtapello/topaz-unicode/-/jobs/artifacts/main/browse?job=build
-
+[download]: https://gitlab.com/Screwtapello/topaz-unicode/-/jobs/artifacts/main/download?job=build

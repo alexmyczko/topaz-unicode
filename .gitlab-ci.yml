@@ -8,5 +8,7 @@ build:
     - wget https://github.com/kreativekorp/bitsnpicas/releases/download/v2.0.2/BitsNPicas.jar
     - PATH=$PWD/bdflib-venv/bin:$PATH make
   artifacts:
+    name: "topaz-unicode"
     paths:
       - ./*.ttf
+      - ./LICENSE
